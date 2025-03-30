@@ -11,6 +11,9 @@
 # 正式发布后
 pip install pyssq
 
+# 如果使用uv管理项目
+# 正式发布后
+uv add pyssq
 # 测试发布时
 uv add --default-index  https://test.pypi.org/simple/ pyssq
 ```
