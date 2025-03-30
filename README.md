@@ -8,10 +8,10 @@
 ## 安装(测试阶段使用 uv)
 
 ```bash
-# 正式环境
+# 正式发布后
 pip install pyssq
 
-# 测试阶段
+# 测试发布时
 uv add --default-index  https://test.pypi.org/simple/ pyssq
 ```
 
